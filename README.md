@@ -1,6 +1,6 @@
 # jpa02-diyaparm
 
-Repo: https://github.com/ucsb-cs156-s24/jpa02-diyaparm.git
+Repo: https://github.com/ucsb-cs156-s24/jpa02-diyaparm
 
 Deployed at: http://jpa02-diyaparm.dokku-14.cs.ucsb.edu
 
